@@ -18,5 +18,5 @@ def print_aanbieding():
         else:
             print (item.lower())
 
-decoreer("Aanbieidng")
+decoreer("Aanbieding")
 print_aanbieding()
